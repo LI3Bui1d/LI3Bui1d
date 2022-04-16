@@ -2,16 +2,18 @@
 <h1 align="center">Hi, I'm Li3Bui1d <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <h3 align="left">📮 Socials</h3>
-<img align="left" alt="admin@li3bui1d.li | Email" width="50px" height="auto" src="./gmail-purple.svg" />
 
-<br>
+[<img align="left" alt="joshuapiper.dev | Portfolio" width="50px" height="auto" src="./visualstudiocode-purple.svg" />][portfolio]
+[<img align="left-purple" alt="joshua-e-piper | LinkedIn" width="50px" height="auto" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="admin@li3bui1d.li| Email" width="50px" height="auto" src="./gmail-purple.svg" />][gmail]
+[<img align="left" alt="linktr.ee/joshua_piper | LinkTree" width="50px" height="auto" src="./linktree-purple.svg" />][linktree]
+
+<br />
 
 <h3 align="left">🐶 Who Am I?</h3>
 
 - ☕ I'm a fullstack developer
 - 🐶 I'm an animal lover
-- 🔭 I’m currently working on [Deakin's Computer Science club's website](https://github.com/orgs/DeakinSEC/dashboard)
-- 👯 I’m looking to collaborate on [my University's LMS](https://github.com/doubtfire-lms)
 - 🌱 I’m currently learning **ReactJS and Gatsby**
 - 📫 How to reach me **admin@li3bui1d.li**
 - 
