@@ -3,7 +3,7 @@
 
 <h3 align="left"> Who Am I?</h3>
 
-- ☕ I'm a fullstack developer
+- ☕ I'm a hobby developer
 - 🌱 I’m currently learning **ReactJS and TypeScript**
 - 📫 How to reach me **admin@li3bui1d.li**
 
