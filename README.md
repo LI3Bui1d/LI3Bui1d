@@ -21,7 +21,7 @@
 
 <h4 >Script</h4>
 
-[![bash](https://img.shields.io/badge/-Bash-f89820?logo=linux&logoColor=white&style=for-the-badge)](#)
+[![bash](https://img.shields.io/badge/-Bash-333333?logo=linux&logoColor=white&style=for-the-badge)](#)
 [![Python](https://img.shields.io/badge/-Python-4b8bbe?logo=python&logoColor=white&style=for-the-badge)](#)
 
     
