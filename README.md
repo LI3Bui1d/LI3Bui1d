@@ -15,8 +15,9 @@
 
 <h4 >Backend</h4>
 
-[![Serverless](https://img.shields.io/badge/-Serverless-FD5750?logo=serverless&logoColor=white&style=for-the-badge)](#)
-[![Node](https://img.shields.io/badge/-Node-339933?logo=node.js&logoColor=white&style=for-the-badge)](#)
+[![Java](https://img.shields.io/badge/-Java-FD5750?logo=java&logoColor=white&style=for-the-badge)](#)
+[![PHP](https://img.shields.io/badge/-PHP-339933?logo=php&logoColor=white&style=for-the-badge)](#)
+[![Python](https://img.shields.io/badge/-Python-339933?logo=python&logoColor=white&style=for-the-badge)](#)
 
     
 <h3 align="left">🌎 My stats</h3>
