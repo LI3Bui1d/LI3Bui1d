@@ -3,8 +3,7 @@
 
 <h3 align="left">📮 Socials</h3>
 
-[<img align="left" alt="joshuapiper.dev | Portfolio" width="50px" height="auto" src="./instagram.svg" />][portfolio]
-[<img align="left-purple" alt="joshua-e-piper | LinkedIn" width="50px" height="auto" src="./glove.svg" />][linkedin]
+<img align="left" alt="https://www.instagram.com/li3bui1d/" width="50px" height="auto" src="./instagram.svg" />
 
 <br />
 
