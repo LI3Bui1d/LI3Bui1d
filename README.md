@@ -15,9 +15,9 @@
 
 <h4 >Backend</h4>
 
-[![Java](https://img.shields.io/badge/-Java-FD5750?logo=java&logoColor=white&style=for-the-badge)](#)
-[![PHP](https://img.shields.io/badge/-PHP-339933?logo=php&logoColor=white&style=for-the-badge)](#)
-[![Python](https://img.shields.io/badge/-Python-339933?logo=python&logoColor=white&style=for-the-badge)](#)
+[![Java](https://img.shields.io/badge/-Java-f89820?logo=java&logoColor=white&style=for-the-badge)](#)
+[![PHP](https://img.shields.io/badge/-PHP-8993be?logo=php&logoColor=white&style=for-the-badge)](#)
+[![Python](https://img.shields.io/badge/-Python-4b8bbe?logo=python&logoColor=white&style=for-the-badge)](#)
 
     
 <h3 align="left">🌎 My stats</h3>
