@@ -18,18 +18,10 @@
 [![Serverless](https://img.shields.io/badge/-Serverless-FD5750?logo=serverless&logoColor=white&style=for-the-badge)](#)
 [![Node](https://img.shields.io/badge/-Node-339933?logo=node.js&logoColor=white&style=for-the-badge)](#)
 
-<details>
-<summary >
-    🌎 My stats
-</summary>
+    
+<h3 align="left">🌎 My stats</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=li3bui1d&show_icons=true&locale=en&layout=compact" alt="li3bui1d" />
 
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=li3bui1d&show_icons=true&locale=en" alt="li3bui1d" />
-</details>
-
-[portfolio]: https://joshuapiper.dev
-[linkedin]: https://www.linkedin.com/in/joshua-e-piper/
-[gmail]: mailto:/josh.piper1505@yahoo.com
-[linktree]: https://linktr.ee/joshua_piper
