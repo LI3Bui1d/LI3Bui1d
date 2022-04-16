@@ -19,6 +19,11 @@
 [![PHP](https://img.shields.io/badge/-PHP-8993be?logo=php&logoColor=white&style=for-the-badge)](#)
 [![Python](https://img.shields.io/badge/-Python-4b8bbe?logo=python&logoColor=white&style=for-the-badge)](#)
 
+<h4 >Script</h4>
+
+[![bash](https://img.shields.io/badge/-Bash-f89820?logo=linux&logoColor=white&style=for-the-badge)](#)
+[![Python](https://img.shields.io/badge/-Python-4b8bbe?logo=python&logoColor=white&style=for-the-badge)](#)
+
     
 <h3 align="left">🌎 My stats</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=li3bui1d&show_icons=true&locale=en&layout=compact" alt="li3bui1d" />
