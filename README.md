@@ -10,7 +10,7 @@
 <h3 align="left">🛠 My tools</h3>
 <h4 >Frontend</h4>
 
-[![CSS](https://img.shields.io/badge/-CSS3-4FC08D?logo=css3&logoColor=white&style=for-the-badge)](#)
+[![CSS](https://img.shields.io/badge/-CSS3-264de4?logo=css3&logoColor=white&style=for-the-badge)](#)
 [![HTML](https://img.shields.io/badge/-HTML5-ff6347?logo=html5&logoColor=white&style=for-the-badge)](#) 
 
 <h4 >Backend</h4>
