@@ -33,9 +33,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=li3bui1d&show_icons=true&locale=en" alt="li3bui1d" />
 
-
-
-
-
-[![star this repo](https://githubbadges.com/star.svg?user=LI3Bui1d&repo=/LI3Bui1d&style=default)](https://github.com/LI3Bui1d//LI3Bui1d)
-[![fork this repo](https://githubbadges.com/fork.svg?user=LI3Bui1d&repo=/LI3Bui1d&style=default)](https://github.com/LI3Bui1d//LI3Bui1d/fork)
