@@ -4,7 +4,7 @@
 <h3 align="left">📮 Socials</h3>
 <img align="left" alt="admin@li3bui1d.li | Email" width="50px" height="auto" src="./gmail-purple.svg" />
 
-<br />
+<br>
 
 <h3 align="left">🐶 Who Am I?</h3>
 
