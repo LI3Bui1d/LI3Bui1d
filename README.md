@@ -4,9 +4,7 @@
 <h3 align="left">📮 Socials</h3>
 
 [<img align="left" alt="joshuapiper.dev | Portfolio" width="50px" height="auto" src="./instagram.svg" />][portfolio]
-[<img align="left-purple" alt="joshua-e-piper | LinkedIn" width="50px" height="auto" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="admin@li3bui1d.li| Email" width="50px" height="auto" src="./gmail.svg" />][gmail]
-[<img align="left" alt="linktr.ee/joshua_piper | LinkTree" width="50px" height="auto" src="./linktree-purple.svg" />][linktree]
+[<img align="left-purple" alt="joshua-e-piper | LinkedIn" width="50px" height="auto" src="./glove.svg" />][linkedin]
 
 <br />
 
