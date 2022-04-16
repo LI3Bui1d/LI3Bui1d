@@ -12,7 +12,7 @@
 
 [![HTML](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](#) 
 [![CSS](https://img.shields.io/badge/-Vue.JS-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)](#)
-[![HTML](https://img.shields.io/badge/-HTML5-3178C6?logo=html5&logoColor=white&style=for-the-badge)](#) 
+[![HTML](https://img.shields.io/badge/-HTML5-3178C6?logo=html5&logoColor=orange&style=for-the-badge)](#) 
 
 <h4 >Backend</h4>
 
