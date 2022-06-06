@@ -1,5 +1,5 @@
-<p align="center"> <img src="./coding.svg" alt="undraw coffee illustration" width="500px%"> </p>
-<h1 align="center">Hi, I'm Li3Bui1d <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+
+<h1 align="center">Hi, I'm Li3Bui1d </h1>
 
 <h3 align="left"> Who Am I?</h3>
 
